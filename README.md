@@ -3,6 +3,6 @@
 ### Directory Configuration
 ```
 .
--| | zshrc
--| | vimrc
+-'-| | zshrc
+-'-| | vimrc
 ```
